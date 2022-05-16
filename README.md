@@ -9,8 +9,8 @@ The data file records characteristics and quality rankings of Portuguese wine fr
 
 ## wi_mn_counties.csv
 In this data file, the variables include
-1. *GEOID*: geographical ID.
-2. *Description*: name of city and state (only WI and MN). 
-3. *income*: in thousands of USD, for 2018.
-4. *population*: number of persons, for 2018.
-5. *ALAND*: area of the county in square meters.
+* *GEOID*: geographical ID.
+* *Description*: name of city and state (only WI and MN). 
+* *income*: in thousands of USD, for 2018.
+* *population*: number of persons, for 2018.
+* *ALAND*: area of the county in square meters.
