@@ -6,3 +6,11 @@ The iris data set is one of the most famous data set and classifier example. It 
 
 ## winequality-red.csv
 The data file records characteristics and quality rankings of Portuguese wine from the [Wine Quality Data Set](http://archive.ics.uci.edu/ml/datasets/Wine+Quality) from the UCI Machine Learning Repository.
+
+## wi_mn_counties.csv
+In this data file, the variables include
+1. *GEOID*: geographical ID.
+2. *Description*: name of city and state (only WI and MN). 
+3. *income*: in thousands of USD, for 2018.
+4. *population*: number of persons, for 2018.
+5. *ALAND*: area of the county in square meters.
